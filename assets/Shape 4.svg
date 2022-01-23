@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 30" width="20" height="30">
+	<title>Header</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #02356e } 
+	</style>
+	<g id="Header">
+		<g id="text">
+			<path id="Shape 4" class="s0" d="m0 25l10-10l-10-10l5-5l10 10v0l5 5h0l0 0l-5 5h0l-10 10l-5-5z" />
+		</g>
+	</g>
+</svg>
